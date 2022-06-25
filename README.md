@@ -1,5 +1,5 @@
 # App_Numeros_Aleatorios
-# Pequeno projeto de um App criado para celulares criado com React Native, onde esse app gera números aleatórios
+# Pequeno projeto de um App criado para celulares com React Native, onde esse app gera números aleatórios
 
 #Abaixo esta o layout de como ficou.
 
