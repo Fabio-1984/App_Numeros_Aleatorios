@@ -1,5 +1,7 @@
 # App_Numeros_Aleatorios
-# Pequeno projeto de um App criado para celulares com React Native, onde esse app gera números aleatórios
+# Pequeno projeto de um App criado para celulares com React Native, onde esse app gera números aleatórios.
+
+#Criado através do curso DECOLA_TECH_3_EDICAO fornecido pela DIO.
 
 #Abaixo esta o layout de como ficou.
 
