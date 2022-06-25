@@ -3,4 +3,7 @@
 
 #Abaixo esta o layout de como ficou.
 
-![Screenshot_20220625-130700_numeroaleatorio](https://user-images.githubusercontent.com/80645214/175782040-9472b295-a696-4166-8032-6afbc95324c8.jpg)
+![image](https://user-images.githubusercontent.com/80645214/175782119-b2ccc00d-b6ca-4e6e-8254-3aec5f9cff5f.png)
+
+
+
